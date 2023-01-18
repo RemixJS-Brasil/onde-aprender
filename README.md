@@ -36,7 +36,12 @@ No [site oficial](https://remix.run/) há dois tutoriais através dos quais voc�
 
 -----
 
-## CURSOS
+## CURSOS, TALKS E VÍDEOS
+
+**Introdução ao Remix [Português]**
+- Plataforma: [YouTube](https://www.youtube.com/watch?v=KbxhtkmNH1I)
+- Autor: [Raphael Gomide](https://github.com/rrgomide)
+- Valor: GRATUITO
 
 **Build a Realtime Chat App with Remix and Supabase [Inglês]**
 - Plataforma: [egghead.io](https://egghead.io/courses/build-a-realtime-chat-app-with-remix-and-supabase-d36e2618)
