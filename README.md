@@ -4,7 +4,19 @@ Vídeos, artigos, cursos e pessoas relevantes para quem está iniciando no mundo
 
 -----
 
-## TUTORIAIS OFICIAIS (EN)
+## CANAIS OFICIAIS DA COMUNIDADE REMIX BRASIL [Português]
+
+Acompanhe nossos canais e vamos aprender juntos a criar experiências incríveis na web com Remix:
+
+- [YouTube](https://www.youtube.com/@remix_run_br)
+- [Meetups](https://www.meetup.com/remix-brasil/)
+- [Twitter](https://twitter.com/remix_run_br)
+- [LinkedIn](https://www.linkedin.com/company/remix-run-br/)
+- [Discord - sala #brazil-BR](https://discord.gg/Y5tnM4w9)
+
+-----
+
+## TUTORIAIS OFICIAIS [Inglês]
 
 No [site oficial](https://remix.run/) há dois tutoriais através dos quais você já pode colocar a mão na massa com o framework:
 
