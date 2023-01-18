@@ -58,6 +58,11 @@ No [site oficial](https://remix.run/) há dois tutoriais através dos quais voc�
 - Autor: [Kent C. Dodds](https://github.com/kentcdodds)
 - Valor: GRATUITO
 
+**Let's Learn Remix [Inglês]**
+- Plataforma: [Youtube](https://www.youtube.com/watch?v=pDdmF9ZhhAA)
+- Autor: [Jason Lengstorf](https://github.com/jlengstorf) from [Learn With Jason](https://github.com/learnwithjason) (with [Ryan Florence](https://github.com/ryanflorence))
+- Valor: GRATUITO
+
 **Remix Fundamentals [Inglês]**
 - Plataforma: [Frontend Masters](https://frontendmasters.com/courses/remix/)
 - Autor: [Kent C. Dodds](https://github.com/kentcdodds)
