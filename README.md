@@ -34,6 +34,13 @@ No [site oficial](https://remix.run/) há dois tutoriais através dos quais voc�
 - [YouTube](https://youtube.com/c/KentCDodds-vids/videos)
 - [Twitter](https://twitter.com/kentcdodds)
 
+**Ryan Florence e Michael Jackson [Inglês]**
+
+[Ryan](https://github.com/ryanflorence) e [Michael](https://github.com/mjackson) são os homens por trás do Remix. O framework, em si, nasceu de suas experiências em desenvolvimento web, desde os tempos "pré-SPA" até as contribuições para o ecossistema React, tanto com treinamentos como com ferramentas.
+- [Twitter do Ryan](https://twitter.com/ryanflorence)
+- [Twitter do Michael](https://twitter.com/mjackson)
+- [Canal do Remix no Youtube](https://www.youtube.com/@Remix-Run)
+
 -----
 
 ## CURSOS, TALKS E VÍDEOS
