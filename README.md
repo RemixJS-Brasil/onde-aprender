@@ -57,6 +57,16 @@ No [site oficial](https://remix.run/) há dois tutoriais através dos quais voc�
 
 ## CURSOS, TALKS E VÍDEOS
 
+**Remix Crash Course 2023 [Inglês]**
+- Plataforma: [YouTube](https://youtu.be/RBYJTop1e-g)
+- Autor: [Academind](https://academind.com/)
+- Valor: GRATUITO
+
+**Remix Crash Course [Inglês]**
+- Plataforma: [YouTube](https://youtu.be/d_BhzHVV4aQ)
+- Autor: [Traversy Media](https://www.traversymedia.com/)
+- Valor: GRATUITO
+
 **Introdução ao Remix [Português]**
 - Plataforma: [YouTube](https://www.youtube.com/watch?v=KbxhtkmNH1I)
 - Autor: [Raphael Gomide](https://github.com/rrgomide)
